@@ -136,7 +136,7 @@ RPSField::RPSField(QWidget *parent)
         exchangeQueue[19] = 2.0000e+02;
         exchangeQueueIndex = 0;
 
-        exchangeRate = exchangeQueue[0];
+        exchangeRate = 0;
         /*exchangeRate = 50;
         exchangeRate2 = 100;
         exchangeRate3 = 150;
