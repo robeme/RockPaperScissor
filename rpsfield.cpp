@@ -13,7 +13,7 @@ RPSField::RPSField(QWidget *parent)
         countReproduction = 0;
         countExchange = 0;
         countSelection = 0;
-        intervall = 0.000000000000001;
+        intervall = 0;
         fileNumber = 0;
         timeSamples = 0;
         countSamples = 0;
